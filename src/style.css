@@ -1,0 +1,28 @@
+/* .root {
+  --font-family: "Gluten";
+  --color: red;
+} */
+body {
+  background-color: rgb(131, 172, 158) !important;
+}
+
+h1 {
+  font-size: 85px !important;
+  font-weight: bolder;
+  color: rgb(24, 107, 107);
+  font-family: "Gluten";
+  text-align: center;
+  margin-top: 55px !important;
+}
+
+.navbar-toggler {
+  background-color: white !important;
+}
+.padelInitial {
+  width: 400px;
+  height: auto;
+  display: flex;
+  margin: 0 auto;
+  border-radius: 15px;
+  box-shadow: 5px 4px 3px grey;
+}
