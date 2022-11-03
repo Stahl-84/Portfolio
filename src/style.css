@@ -45,11 +45,38 @@ ul {
   margin-bottom: 15px;
 }
 
-.player {
+.playerName {
+  margin-bottom: 8px;
+}
+
+.playerImg {
   width: 75px;
   border-radius: 10px;
   box-shadow: 5px 4px 3px grey;
   margin-bottom: 15px;
+}
+
+.footerInfo {
+  text-align: right;
+  margin-top: 25px;
+  margin-bottom: 15px;
+  margin-right: 45px;
+}
+
+.email {
+  margin-right: 10px;
+  text-decoration: none;
+  color: black;
+}
+
+.logo {
+  box-shadow: 5px 4px 3px grey;
+  height: 45px;
+}
+
+.wpt-logo {
+  margin-right: 5px;
+  box-shadow: 5px 4px 3px grey;
 }
 
 @media (max-width: 576px) {
