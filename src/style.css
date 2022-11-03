@@ -40,6 +40,10 @@ ul {
   box-shadow: 5px 4px 3px grey;
 }
 
+.readMore {
+  color: black;
+}
+
 .bestPlayers {
   text-align: center;
   margin-bottom: 15px;
